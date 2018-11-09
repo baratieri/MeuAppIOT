@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "281888144819",
+    "firebase_url": "https://meuappiotrafael.firebaseio.com",
+    "project_id": "meuappiotrafael",
+    "storage_bucket": "meuappiotrafael.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281888144819:android:fa05db7363dbd9ed",
+        "android_client_info": {
+          "package_name": "br.com.eduardo.meuappiot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281888144819-vqcuqdh8pj512fk7b5dsl8t051d6n5r9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.eduardo.meuappiot",
+            "certificate_hash": "beb224284730e1ec2ea6857c4e52af0c0438cd6c"
+          }
+        },
+        {
+          "client_id": "281888144819-cgcfjlk2rca20muscvj9vpqm8oviofpc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAus3Sz8T6tyTZEryv-73GoqNZ2nLRHxkE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281888144819-cgcfjlk2rca20muscvj9vpqm8oviofpc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
